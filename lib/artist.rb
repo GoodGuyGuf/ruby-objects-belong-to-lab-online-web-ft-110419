@@ -8,3 +8,5 @@ attr_accessor :name
   end
 
 end
+
+Artist.name("Beyonce")
