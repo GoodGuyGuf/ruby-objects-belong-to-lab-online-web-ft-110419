@@ -1,8 +1,8 @@
 require 'pry'
 class Artist
 
-  def name=("Beyonce")
-    @name = "Beyonce"
+  def name=(name)
+    @name = name
   end
 
 
