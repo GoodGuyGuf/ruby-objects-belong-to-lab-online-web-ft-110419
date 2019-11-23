@@ -6,4 +6,8 @@ attr_accessor :name
     @name = name
   end
 
+  def name
+    self.name = "Beyonce"
+  end
+
 end
